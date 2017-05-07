@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: verdana;
+    font-size: 25px;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+table.center {
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+}

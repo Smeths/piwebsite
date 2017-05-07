@@ -1,0 +1,1012 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/2pGwfYHZdEkRRW9VvbMIHqKfP1A\"",
+  "regionCode": "GB",
+  "pageInfo": {
+    "totalResults": 15,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/KhkdSj--dpxYj0KVyci9T-pU6aQ\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mr6Md_ZHk98"
+      },
+      "snippet": {
+        "publishedAt": "2015-04-10T12:51:50.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "Computer Registers",
+        "description": "How Computer Registers Work.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mr6Md_ZHk98/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mr6Md_ZHk98/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mr6Md_ZHk98/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/S65qWoFhNCxRbPX6DEQJRONqZx8\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VbxDP9Ck3sc"
+      },
+      "snippet": {
+        "publishedAt": "2014-09-07T21:35:20.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "Using Linux Terminal Tools for Finding Files",
+        "description": "Learn how to use find, locate, updatedb, whereis and which.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VbxDP9Ck3sc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VbxDP9Ck3sc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VbxDP9Ck3sc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/bfyC1vnRQl_ikvjjC4wHEIPqCvU\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fBH98GeLxpc"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-12T19:43:01.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "RAM",
+        "description": "Description of how memory addressing and RAM works.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fBH98GeLxpc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fBH98GeLxpc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fBH98GeLxpc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/arFlQs7uQ50IXlBUSnNM_R6FxwA\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kzkPEDRaxpM"
+      },
+      "snippet": {
+        "publishedAt": "2014-10-26T08:54:05.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "Input/Output Redirection",
+        "description": "Understand how to redirect standard input/output at the terminal.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kzkPEDRaxpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kzkPEDRaxpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kzkPEDRaxpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/iV6C0iLxGmcDfLk18DnWRL4sQg0\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LBUGrHN0QAc"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-02T17:37:55.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "The Bus",
+        "description": "Explanation of how a computer bus works.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LBUGrHN0QAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LBUGrHN0QAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LBUGrHN0QAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/johzFyp-besYK0urAEWMoMLZnu4\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oI1clEJE7vQ"
+      },
+      "snippet": {
+        "publishedAt": "2014-09-28T08:30:10.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "Grep and Regex",
+        "description": "Using grep and extended regex.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oI1clEJE7vQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oI1clEJE7vQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oI1clEJE7vQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/J5akOxDFudLg9Gxxiahqs-hzvyA\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N9dYJ740HqU"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-23T05:15:28.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "SED Stream Editor",
+        "description": "sed,stream,editor,unix,linux,terminal,command,bash,computer,shell,script.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N9dYJ740HqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N9dYJ740HqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N9dYJ740HqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/8zhsFGQEdhMEU38TQe20Ki1fyZc\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W-4RQTz-q1Q"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-01T11:37:53.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "Logic Gates",
+        "description": "Describes how a NAND gate can be used to create other gates and demonstrates with logisim.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W-4RQTz-q1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W-4RQTz-q1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W-4RQTz-q1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/p68n9cuAHhZ89jpmLoMivoqtRp8\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "htRU6WW6jVQ"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-21T17:29:14.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "Karnaugh Maps",
+        "description": "Explanation of how to produce a boolean express and hence circuit using Karnaugh Maps.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/htRU6WW6jVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/htRU6WW6jVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/htRU6WW6jVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/64jXDadWyz10956iQFdssofF2AY\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wDRwG8SFJPA"
+      },
+      "snippet": {
+        "publishedAt": "2015-04-11T05:42:19.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "Shell Basics",
+        "description": "Basics of how to use the shell.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wDRwG8SFJPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wDRwG8SFJPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wDRwG8SFJPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/ZM87z14UdYA8YKRksAs0Ek44srE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-hEUbm21y-o"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-12T10:16:53.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "Normal Distribution",
+        "description": "First Principles Derivation of the Normal Distribution - to read document: https://drive.google.com/open?id=0B1bUtEwqQ_0MYmU5Q1BHSEFfdFE.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-hEUbm21y-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-hEUbm21y-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-hEUbm21y-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/CaJm-U0UsUNTI47lHCKQ_MGQKPI\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tFzU8_wY-3Y"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-19T18:51:23.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "Cut",
+        "description": "Description of how to use cut, wc, head and tail.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tFzU8_wY-3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tFzU8_wY-3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tFzU8_wY-3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/qIzXpVn0Gh7QnPLeogHy8Ys_714\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YyRm6QAQjzE"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-31T13:43:41.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "Web Programming Basics",
+        "description": "Basic Ideas of Web Programming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YyRm6QAQjzE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YyRm6QAQjzE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YyRm6QAQjzE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Szk13pP36bqXTJQf8HszuSTH2ZE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "92RzNe1cq0I"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-30T10:35:15.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "ALU",
+        "description": "Description of how the ALU works.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/92RzNe1cq0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/92RzNe1cq0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/92RzNe1cq0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/W-EILUfpO3lrBLlkl3dluI8Jlfg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EOzRb4TAiZY"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-31T15:22:23.000Z",
+        "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+        "title": "awk",
+        "description": "Details of how to use the unix awk utility.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EOzRb4TAiZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EOzRb4TAiZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EOzRb4TAiZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cm tech",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ],
+  "result": {
+    "kind": "youtube#searchListResponse",
+    "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/2pGwfYHZdEkRRW9VvbMIHqKfP1A\"",
+    "regionCode": "GB",
+    "pageInfo": {
+      "totalResults": 15,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/KhkdSj--dpxYj0KVyci9T-pU6aQ\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Mr6Md_ZHk98"
+        },
+        "snippet": {
+          "publishedAt": "2015-04-10T12:51:50.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "Computer Registers",
+          "description": "How Computer Registers Work.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Mr6Md_ZHk98/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Mr6Md_ZHk98/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Mr6Md_ZHk98/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/S65qWoFhNCxRbPX6DEQJRONqZx8\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VbxDP9Ck3sc"
+        },
+        "snippet": {
+          "publishedAt": "2014-09-07T21:35:20.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "Using Linux Terminal Tools for Finding Files",
+          "description": "Learn how to use find, locate, updatedb, whereis and which.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VbxDP9Ck3sc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VbxDP9Ck3sc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VbxDP9Ck3sc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/bfyC1vnRQl_ikvjjC4wHEIPqCvU\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fBH98GeLxpc"
+        },
+        "snippet": {
+          "publishedAt": "2015-05-12T19:43:01.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "RAM",
+          "description": "Description of how memory addressing and RAM works.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fBH98GeLxpc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fBH98GeLxpc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fBH98GeLxpc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/arFlQs7uQ50IXlBUSnNM_R6FxwA\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kzkPEDRaxpM"
+        },
+        "snippet": {
+          "publishedAt": "2014-10-26T08:54:05.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "Input/Output Redirection",
+          "description": "Understand how to redirect standard input/output at the terminal.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kzkPEDRaxpM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kzkPEDRaxpM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kzkPEDRaxpM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/iV6C0iLxGmcDfLk18DnWRL4sQg0\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LBUGrHN0QAc"
+        },
+        "snippet": {
+          "publishedAt": "2015-05-02T17:37:55.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "The Bus",
+          "description": "Explanation of how a computer bus works.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LBUGrHN0QAc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LBUGrHN0QAc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LBUGrHN0QAc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/johzFyp-besYK0urAEWMoMLZnu4\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oI1clEJE7vQ"
+        },
+        "snippet": {
+          "publishedAt": "2014-09-28T08:30:10.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "Grep and Regex",
+          "description": "Using grep and extended regex.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oI1clEJE7vQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oI1clEJE7vQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oI1clEJE7vQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/J5akOxDFudLg9Gxxiahqs-hzvyA\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "N9dYJ740HqU"
+        },
+        "snippet": {
+          "publishedAt": "2016-08-23T05:15:28.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "SED Stream Editor",
+          "description": "sed,stream,editor,unix,linux,terminal,command,bash,computer,shell,script.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/N9dYJ740HqU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/N9dYJ740HqU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/N9dYJ740HqU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/8zhsFGQEdhMEU38TQe20Ki1fyZc\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "W-4RQTz-q1Q"
+        },
+        "snippet": {
+          "publishedAt": "2016-05-01T11:37:53.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "Logic Gates",
+          "description": "Describes how a NAND gate can be used to create other gates and demonstrates with logisim.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W-4RQTz-q1Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W-4RQTz-q1Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W-4RQTz-q1Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/p68n9cuAHhZ89jpmLoMivoqtRp8\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "htRU6WW6jVQ"
+        },
+        "snippet": {
+          "publishedAt": "2016-07-21T17:29:14.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "Karnaugh Maps",
+          "description": "Explanation of how to produce a boolean express and hence circuit using Karnaugh Maps.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/htRU6WW6jVQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/htRU6WW6jVQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/htRU6WW6jVQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/64jXDadWyz10956iQFdssofF2AY\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wDRwG8SFJPA"
+        },
+        "snippet": {
+          "publishedAt": "2015-04-11T05:42:19.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "Shell Basics",
+          "description": "Basics of how to use the shell.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wDRwG8SFJPA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wDRwG8SFJPA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wDRwG8SFJPA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/ZM87z14UdYA8YKRksAs0Ek44srE\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-hEUbm21y-o"
+        },
+        "snippet": {
+          "publishedAt": "2017-04-12T10:16:53.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "Normal Distribution",
+          "description": "First Principles Derivation of the Normal Distribution - to read document: https://drive.google.com/open?id=0B1bUtEwqQ_0MYmU5Q1BHSEFfdFE.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-hEUbm21y-o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-hEUbm21y-o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-hEUbm21y-o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/CaJm-U0UsUNTI47lHCKQ_MGQKPI\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tFzU8_wY-3Y"
+        },
+        "snippet": {
+          "publishedAt": "2015-05-19T18:51:23.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "Cut",
+          "description": "Description of how to use cut, wc, head and tail.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tFzU8_wY-3Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tFzU8_wY-3Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tFzU8_wY-3Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/qIzXpVn0Gh7QnPLeogHy8Ys_714\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YyRm6QAQjzE"
+        },
+        "snippet": {
+          "publishedAt": "2016-08-31T13:43:41.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "Web Programming Basics",
+          "description": "Basic Ideas of Web Programming.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YyRm6QAQjzE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YyRm6QAQjzE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YyRm6QAQjzE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Szk13pP36bqXTJQf8HszuSTH2ZE\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "92RzNe1cq0I"
+        },
+        "snippet": {
+          "publishedAt": "2015-12-30T10:35:15.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "ALU",
+          "description": "Description of how the ALU works.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/92RzNe1cq0I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/92RzNe1cq0I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/92RzNe1cq0I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/W-EILUfpO3lrBLlkl3dluI8Jlfg\"",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "EOzRb4TAiZY"
+        },
+        "snippet": {
+          "publishedAt": "2015-05-31T15:22:23.000Z",
+          "channelId": "UCSa-ZazUij7zG5HyGzJObsA",
+          "title": "awk",
+          "description": "Details of how to use the unix awk utility.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EOzRb4TAiZY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EOzRb4TAiZY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EOzRb4TAiZY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "cm tech",
+          "liveBroadcastContent": "none"
+        }
+      }
+    ]
+  }
+}
